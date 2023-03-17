@@ -115,15 +115,6 @@
     </a>
 </p>
 
-<h3>Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/vinhvizg">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinhvizg" />
-    </a>
-    <a href="https://ko-fi.com/vinhvizg">
-        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinhvizg" />
-    </a>
-</p>
 <br>
 <br>
 
@@ -137,3 +128,13 @@
             alt="vinhvizg1040" />
     </p>
 </div>
+
+<h3>Support:</h3>
+<p>
+    <a href="https://www.buymeacoffee.com/vinhvizg">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vinhvizg" />
+    </a>
+    <a href="https://ko-fi.com/vinhvizg">
+        <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="vinhvizg" />
+    </a>
+</p>
