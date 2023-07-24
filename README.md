@@ -119,10 +119,9 @@
 <br>
 
 <div style="display: flex;">
-    <p style="flex: 80%">
-        
-        <img src="https://raw.githubusercontent.com/vinhvizg1040/github-stats/master/generated/overview.svg#gh-dark-mode-only"
-            alt="vinhvizg1040" />
+    <p style="flex: 80%">        
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinhvizg1040&show_icons=true&locale=en&layout=compact"
+        alt="vinhvizg1040" />
     </p>
     <p style="flex: 50%">
         <img src="https://github-readme-stats.vercel.app/api?username=vinhvizg1040&show_icons=true&locale=en"
