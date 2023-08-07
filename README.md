@@ -22,7 +22,8 @@
 ### Others:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)     ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)      ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
-# 📊 GitHub Stats:
+<details>
+  <summary><h2> 📊 GitHub Stats:</h2></summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=vinhvizg1040&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
@@ -37,8 +38,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vinhvizg1040&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
   
-
 ---
+</details> 
 
 [![](https://visitcount.itsvg.in/api?id=vinhvizg1040&icon=0&color=12)](https://visitcount.itsvg.in)
 
@@ -47,7 +48,5 @@
 ## 💰 You can help me by Donating
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vinhvizg)
-
-  
-
+ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
